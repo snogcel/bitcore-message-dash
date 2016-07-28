@@ -22,7 +22,7 @@
     "type": "git",
     "url": "https://github.com/dashpay/bitcore-message-dash.git"
   },
-  "dependencies": {
+  "peerDependencies": {
     "bitcore-lib-dash": "^0.13.17"
   },
   "devDependencies": {
